@@ -1,0 +1,8 @@
+DISCORD_TOKEN = "TON_TOKEN"
+CHANNEL_NAME = "matchs-gg"
+PLAYER_IDS = {
+    "ManchotEmpereur": "240914210749293913",
+    "Kuruae": "210614070718349098",
+    "ClemClem": "240925184859357373",
+    "RabatJoie": "250627174706598541"
+}
